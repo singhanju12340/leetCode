@@ -5,7 +5,9 @@ class Solution {
             return -1;
 
         int leftSum=0;
-        int rightSum = Arrays.stream(nums).sum();
+        int rightSum = 0;
+        for(int num : nums) 
+          rightSum += num;
 
         for(int i=0;i<j;i++){
             rightSum -= nums[i];
