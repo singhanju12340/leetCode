@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/singhanju12340/leetCode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhanju12340/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/singhanju12340/leetCode/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/singhanju12340/leetCode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhanju12340/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/singhanju12340/leetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/singhanju12340/leetCode/tree/master/0344-reverse-string) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/singhanju12340/leetCode/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/singhanju12340/leetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
