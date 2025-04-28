@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/singhanju12340/leetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/singhanju12340/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/singhanju12340/leetCode/tree/master/0724-find-pivot-index) |
+| [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhanju12340/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
+| [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/singhanju12340/leetCode/tree/master/0042-trapping-rain-water) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
