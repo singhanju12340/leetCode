@@ -16,7 +16,7 @@ class Solution {
                 return true;
             }
             
-            if(map.containsKey(currentSum%k)){
+            else if(map.containsKey(currentSum%k)){
                 continue;
             }else{
                 map.put(currentSum%k,i);
