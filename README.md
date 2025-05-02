@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/singhanju12340/leetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/singhanju12340/leetCode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/singhanju12340/leetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/singhanju12340/leetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhanju12340/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhanju12340/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/singhanju12340/leetCode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
 | [0523-continuous-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/singhanju12340/leetCode/tree/master/0560-subarray-sum-equals-k) |
