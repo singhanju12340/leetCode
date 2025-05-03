@@ -102,9 +102,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0523-continuous-subarray-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
