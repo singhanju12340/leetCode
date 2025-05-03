@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/singhanju12340/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/singhanju12340/leetCode/tree/master/0724-find-pivot-index) |
 | [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,12 +113,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
