@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/singhanju12340/leetCode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
 ## Math
@@ -117,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/singhanju12340/leetCode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/singhanju12340/leetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/singhanju12340/leetCode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/singhanju12340/leetCode/tree/master/2035-count-sub-islands) |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/singhanju12340/leetCode/tree/master/2035-count-sub-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/singhanju12340/leetCode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
