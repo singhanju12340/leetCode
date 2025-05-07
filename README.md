@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/singhanju12340/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/singhanju12340/leetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/singhanju12340/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/singhanju12340/leetCode/tree/master/0330-patching-array) |
 | [0523-continuous-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/singhanju12340/leetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/singhanju12340/leetCode/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/singhanju12340/leetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/singhanju12340/leetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Queue
 |  |
 | ------- |
