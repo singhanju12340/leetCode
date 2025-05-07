@@ -1,5 +1,6 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
+          System.gc();
         int max = 1;
         int dp[] = new int[nums.length];
         Arrays.fill(dp, 1); // every element is 1 size long sequence
