@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/singhanju12340/leetCode/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/singhanju12340/leetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0688-knight-probability-in-chessboard](https://github.com/singhanju12340/leetCode/tree/master/0688-knight-probability-in-chessboard) |
 ## Trie
 |  |
 | ------- |
