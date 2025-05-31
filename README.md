@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/singhanju12340/leetCode/tree/master/2035-count-sub-islands) |
+| [2479-meeting-rooms-iii](https://github.com/singhanju12340/leetCode/tree/master/2479-meeting-rooms-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/singhanju12340/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
+| [2479-meeting-rooms-iii](https://github.com/singhanju12340/leetCode/tree/master/2479-meeting-rooms-iii) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/singhanju12340/leetCode/tree/master/0239-sliding-window-maximum) |
+| [2479-meeting-rooms-iii](https://github.com/singhanju12340/leetCode/tree/master/2479-meeting-rooms-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/singhanju12340/leetCode/tree/master/0210-course-schedule-ii) |
+## Sorting
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/singhanju12340/leetCode/tree/master/2479-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/singhanju12340/leetCode/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
