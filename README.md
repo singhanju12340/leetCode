@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/singhanju12340/leetCode/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/singhanju12340/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/singhanju12340/leetCode/tree/master/2035-count-sub-islands) |
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/singhanju12340/leetCode/tree/master/2479-meeting-rooms-iii) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/singhanju12340/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/singhanju12340/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
