@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/singhanju12340/leetCode/tree/master/1039-find-the-town-judge) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/singhanju12340/leetCode/tree/master/2035-count-sub-islands) |
+| [2228-watering-plants-ii](https://github.com/singhanju12340/leetCode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/singhanju12340/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/singhanju12340/leetCode/tree/master/2479-meeting-rooms-iii) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/singhanju12340/leetCode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/singhanju12340/leetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/singhanju12340/leetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [2228-watering-plants-ii](https://github.com/singhanju12340/leetCode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/singhanju12340/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/singhanju12340/leetCode/tree/master/0735-asteroid-collision) |
+| [2228-watering-plants-ii](https://github.com/singhanju12340/leetCode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/singhanju12340/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/singhanju12340/leetCode/tree/master/2479-meeting-rooms-iii) |
 ## Tree
