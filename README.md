@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhanju12340/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/singhanju12340/leetCode/tree/master/0344-reverse-string) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/singhanju12340/leetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/singhanju12340/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/singhanju12340/leetCode/tree/master/0688-knight-probability-in-chessboard) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/singhanju12340/leetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/singhanju12340/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/singhanju12340/leetCode/tree/master/0724-find-pivot-index) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/singhanju12340/leetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Greedy
 |  |
 | ------- |
