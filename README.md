@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/singhanju12340/leetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/singhanju12340/leetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhanju12340/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/singhanju12340/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/singhanju12340/leetCode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhanju12340/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/singhanju12340/leetCode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/singhanju12340/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/singhanju12340/leetCode/tree/master/0139-word-break) |
 | [0523-continuous-subarray-sum](https://github.com/singhanju12340/leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/singhanju12340/leetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/singhanju12340/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/singhanju12340/leetCode/tree/master/0801-is-graph-bipartite) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/singhanju12340/leetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/singhanju12340/leetCode/tree/master/2035-count-sub-islands) |
